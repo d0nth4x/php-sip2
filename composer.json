@@ -22,12 +22,16 @@
             "email": "paul@elphin.com",
             "homepage": "https://github.com/lordelph",
             "role": "Developer"
+        },
+        {
+            "name": "Paweł Drzewiecki",
+            "role": "Developer"
         }
     ],
     "require": {
-        "php": "~7.0|~8.0",
+        "php": "^7.0|^8.0",
         "clue/socket-raw": "^1.3",
-        "psr/log": "^1.0"
+        "psr/log": ">=1.0"
     },
     "require-dev": {
         "phpunit/phpunit" : ">=5.4.3",
