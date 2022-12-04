@@ -1,5 +1,5 @@
 {
-    "name": "lordelph/php-sip2",
+    "name": "d0nth4x/php-sip2",
     "type": "library",
     "description": "Communicate with Integrated Library System (ILS) servers via 3M's SIP2",
     "keywords": [
